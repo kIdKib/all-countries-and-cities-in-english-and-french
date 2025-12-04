@@ -4,7 +4,7 @@ This directory contains a comprehensive database of countries and their cities, 
 
 ## Overview
 
-The `countries.json` file contains **203 countries** with over **1,500 cities** worldwide, providing bilingual support (English/French) for location-based features in the El Rondo application.
+The `countries.json` file contains **203 countries** with over **1,500 cities** worldwide, providing bilingual support (English/French) for location-based.
 
 ## Data Structure
 
